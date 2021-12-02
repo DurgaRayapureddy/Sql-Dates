@@ -1,0 +1,1 @@
+DATEADD(s,-1,DATEADD(mm, DATEDIFF(m, 0, GETDATE()), 0))
